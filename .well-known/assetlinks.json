@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jda.mobility.wfmr",
+      "sha256_cert_fingerprints": [
+        "BD:DE:2B:6C:E5:1A:F1:2A:31:8A:5B:5D:BF:46:C5:76:78:8B:24:47:5B:9D:69:14:58:DB:54:72:BB:49:B1:09"
+      ]
+    }
+  }
+]

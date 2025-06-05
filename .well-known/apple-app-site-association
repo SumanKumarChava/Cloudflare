@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "YGKBJDYS47.com.blueyonder.mobility.deepLinkTest",
+        "paths": [
+          "*",
+          "/*"
+        ]
+      }
+    ]
+  }
+}
